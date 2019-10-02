@@ -12,4 +12,4 @@ nysay "Today the terminal, tomorrow the world"`
 - - Get help:
 -
 - `ponysay -h`
-`
+
